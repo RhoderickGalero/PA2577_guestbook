@@ -1,2 +1,2 @@
-# PA2577_webapp
- simple containerize webapp
+# PA2577_guestbook
+ simple containerize guestbook app

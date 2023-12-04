@@ -1,9 +1,9 @@
 import './App.css';
-import { useState } from 'react';
+import { useState } from 'react'; // used hooks from react
 import axios from 'axios';
 
 function App() {
-  const [input, setInput] = useState('');
+  const [input, setInput] = useState('');  // send the values form react server
   const initialList = [];
 
   const [texts, setTexts] = useState(initialList);
